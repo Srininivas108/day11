@@ -1,0 +1,49 @@
+.image{
+    border: 5px solid black;
+    background-color:white;
+    padding:10px;
+    align-content: center;
+    width: 550px;
+    height: 280px;
+   font-weight: bold;
+}
+h1 {
+color: white;
+background-color: red;
+height: 40px;
+width:550px;
+margin:0px;
+}
+.fname,.lname{
+    display:inline;
+    border-bottom:2px solid #000000; width:180px; padding-bottom:0px;padding-left: 20px;
+}
+
+.fname,.lname{
+
+  height:20px;
+  padding-left: 80px;
+  padding-right: 100px;
+  word-spacing: 200px;
+  font-family: 'Mr Dafoe', cursive;
+}
+
+.add{
+    border-bottom:2px solid #000000; width:500px; padding-bottom:0px;
+    text-align:center ;
+    font-family: 'Mr Dafoe', cursive;
+}
+
+#fspal{
+    padding-left: 60px;
+  padding-right: 100px;
+    word-spacing: 100px;
+}
+.city,.state,.zip{
+    display:inline-block ;
+    border-bottom:2px solid #000000; width:45px; padding-bottom:0px;padding-left: 95px; 
+    font-family: 'Mr Dafoe', cursive;
+}
+.address{
+    word-spacing: 120px;
+}
